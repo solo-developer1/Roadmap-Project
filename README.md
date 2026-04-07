@@ -1,11 +1,6 @@
-# My Roadmap Project
+# Tabs Project
 
-This project is created as part of a roadmap.sh assignment.
+Solution for the Tabs project from roadmap.sh
 
-## Technologies
-- HTML
-- CSS
-- JavaScript
-
-## Description
-This website demonstrates basic web development skills including layout, styling, and simple interactions.
+Project page:
+https://roadmap.sh/projects/tabs
