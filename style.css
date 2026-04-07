@@ -1,0 +1,42 @@
+body { font-family: sans-serif; display: flex; justify-content: center; padding: 50px; }
+
+.tabs-container {
+  border: 2px solid #333;
+  border-radius: 15px;
+  padding: 20px;
+  width: 500px;
+}
+
+.tab-header {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.Tab-btn {
+  background: none;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 16px;
+  color: #db0000;
+  transition: 0.3s;
+}
+
+/* Aktif Sekme Stili */
+.Tab-btn.active {
+  color: #000;
+  border-bottom: 3px solid #333;
+  font-weight: bold;
+}
+
+.tab-content {
+  display: none; /* Varsayılan olarak hepsini gizle */
+}
+
+.writeln-btn {
+  background-color: #000;
+  color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  text-align: center;
+}

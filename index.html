@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="tabs-container">
+  <div class="tab-header">
+    <button class="Tab-btn active" onclick="openTab(event, 'btn1')">First Tab</button>
+    <button class="Tab-btn" onclick="openTab(event, 'btn2')">Second Tab</button>
+    <button class="Tab-btn" onclick="openTab(event, 'btn3')">Third Tab</button>
+    <button class="Tab-btn" onclick="openTab(event, 'btn4')">Fourth Tab</button>
+  </div>
+
+  <div class="tab-content-wrapper">
+    <div class="writeln-btn" id="btn1" style="display: block;"> First Tab content to be displayed here</div>
+    <div class="writeln-btn" id="btn2" style="display: none;"> Second Tab content to be displayed here</div>
+    <div class="writeln-btn" id="btn3" style="display: none;"> third Tab content to be displayed here</div>
+    <div class="writeln-btn" id="btn4" style="display: none;"> fourth Tab content to be displayed here</div>
+  </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
