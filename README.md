@@ -1,6 +1,6 @@
 # Tabs Project
 
-Solution for the Tabs project from roadmap.sh
+This project is a solution for the roadmap.sh Tabs project.
 
-Project page:
+Project URL:
 https://roadmap.sh/projects/tabs
