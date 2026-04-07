@@ -3,4 +3,5 @@
 This project is a solution for the roadmap.sh Tabs project.
 
 Project URL:
-https://roadmap.sh/projects/tabs
+[https://roadmap.sh/projects/tabs
+](https://roadmap.sh/projects/simple-tabs)
